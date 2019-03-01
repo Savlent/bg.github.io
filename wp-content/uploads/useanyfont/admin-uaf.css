@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'thin';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/190226010124thin.eot');
+				src: local('thin'), url('/wp-content/uploads/useanyfont/190226010124thin.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/190226010124thin.woff') format('woff');
+			}
+            
+            .et_gf_thin{background:none !important;font-family:thin;text-indent:0 !important;font-size:25px;}
+            
+		

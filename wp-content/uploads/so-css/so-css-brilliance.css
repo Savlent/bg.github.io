@@ -1,0 +1,19 @@
+.breadcrumb-title {
+  display: none;
+}
+
+body .dark .heading {
+  display: none;
+}
+
+.breadcrumb-link {
+  display: none;
+}
+
+body .dark a:link {
+  color: #000000;
+}
+
+.footer-content {
+  display: none;
+}
